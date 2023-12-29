@@ -4,7 +4,7 @@ from openai import OpenAI
 url = "https://api.apollo.io/v1/people/match"
 
 data = {
-    "api_key": "***REMOVED***",
+    "api_key": "",
     "first_name": "Mathias",
     "last_name": "Wilder",
     "organization_name": "Deep Instinct",
