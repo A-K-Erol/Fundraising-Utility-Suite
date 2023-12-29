@@ -1,0 +1,311 @@
+1. ISSUE BACKGROUND
+OLD: [220 words]
+The essence of the problem:
+The World Health Organization indicates that after the full-scale invasion of the Russian Federation into Ukraine, about 9.6 million Ukrainians are at risk of developing psychological disorders (https://www.who.int/news-room/feature-stories/detail/scaling-up-mental-health-and-psychosocial-services-in-war-affected-regions--best-practices-from-ukraine)
+Even before the full-scale invasion of the Russian Federation, Ukraine was ranked 38 out of 44 in the world "Happiness Index" - according to the international Gallup International survey, which was conducted in Ukraine by the Democratic Initiatives Foundation and KMIS in January 2022. Also, in 2021, Ukraine was among the TOP-10 countries in terms of the number of suicides in the world - 24-32 cases per 100,000 people.
+Thus, the full-scale war exacerbated the mental problems of Ukrainians, the psycho-emotional state deteriorated sharply, and the demand for psychological support increased. The state, represented by the Ministry of Health, is trying to solve this problem, but the state resources are not enough. Therefore, it is critically important to implement and develop independent programs of psychological support and development of cheerfulness of Ukrainians, including through the efforts of non-governmental public organizations.
+NEW [172 words]
+Issue Background:
+The full-scale invasion of Ukraine has exacerbated mental health challenges and led to a sharp deterioration in psycho-emotional wellbeing.  The World Health Organization reported that following the full-scale invasion of the Russian Federation into Ukraine, 9.6 million Ukrainians are at risk of developing psychological disorders, driving demand for increased psychological support services.
+Public resources provided by the Ministry of Health are insufficient to address the issue. Therefore, it is critically important to develop independent programs that offer psychological support and promote emotional wellbeing, especially through non-governmental public organizations.
+UA Mental Help is a charitable institution that was established in 2022 to provide psychological assistance to Ukrainians impacted by the war. Given our extensive experience in providing psycho-emotional assistance with qualified specialists, we are uniquely positioned to help meet the psychological needs of Ukrainians.
+2. ABOUT US
+OLD:
+In working with persons who have applied for help, we are guided by case management - a method of comprehensive work with applicants, provision of services in accordance with individual needs for effective and targeted psychological support.
+Over the past year, we have provided psychological assistance to more than 3,000 people and now provide more than 1,000 consultations every month with the help of 47 specialists: psychologists, psychotherapists, psychiatrists.
+In May 2023, the project aimed at reducing the impact of war on the mental health of Ukrainians ended. According to the project, it was planned to provide 1,700 50-minute consultations from December 2022 to May 2023. The planned indicators were exceeded and 2,642 consultations were provided for 320 beneficiaries. In total, 355 individuals received assistance via individual and group support (320 and 35 accordingly), including 4 GBV survivors, 15 persons with disabilities, 3 LGBTQ+ representatives, and 62 children under the age of 18.
+As part of the project, 6 psycho-educational webinars were held, attended by 476 people.
+Conducted 2 courses of " Self-Help Plus" groups, 10 sessions total, which were visited by 68 beneficiaries
+As part of the project, training was conducted for the involved specialists according to the mhGAP protocol. MhGAP (mental health gap action program) is a WHO program that aims to address health service gaps and reduce the significant burden of mental, neurological and substance use disorders on a global scale.
+Specialists of our organization have experience working with both children and victims of gender-based violence and in their work are guided by the relevant standards and protocols of the Inter-Agency Standing Committee. The Inter-Agency Standing Committee was established in 1992 as part of UN General Assembly Resolution 46/182 by the heads of a wide range of organizations belonging to the UN system and independent humanitarian organizations.
+One of the areas of activity of the "UA MENTAL HELP " CI is the provision of long-term psychological assistance to persons who have contacted the relevant hotlines. Our institution has concluded memorandums and agreements with the following organizations:
+-               krisenchat gGmbH - psychological counseling service for children and adults;
+-               Lifeline Ukraine Charitable Foundation, which provides support to people experiencing suicidal thoughts or emotional crisis;
+-               Public union "National Psychological Association", which, in particular, provides psychological help hotline services in Ukraine and abroad.
+These organizations refer to us persons who have contacted the hotline to receive long-term psychological help and to eliminate the reasons that lead them to suicidal thoughts and actions.
+Our organization is a member of the Technical Working Group on Mental Health and Psychosocial Support (MHPSS TWG) created by the World Health Organization. Also, our institution is presented on the map (mapping) of the services of the indicated group ( https://response.reliefweb.int/ukraine/mental-health-and-psychosocial-support-technical-working-group/mhpss-twg-referrals-map ).
+NEW:
+About Us [270 words]:
+At UA Mental Help, we are a team of licensed mental health professionals and advocates dedicated to providing comprehensive mental health services to families affected by the crisis in Ukraine. Our guiding philosophy is catering to the individual: every patient is unique and requires different services and treatments for psychological recovery. Over the past year, we have provided direct psychological assistance to more than 3,000 individuals and distributed educational materials to millions of Ukrainians in need.
+We provision psychological assistance to patients who have contacted our formal partner hotlines: Krisenchat, Lifeline Ukraine, and the National Psychological Organization, and are referred to us for long-term help. We are also a member of the Technical Working Group on Mental Health and Psychosocial Support.
+________________
+3. PROJECT DESCRIPTION / GOALS / REACH
+OLD:
+The goal of the project is to improve the psycho-emotional state of family members of the Defenders of Ukraine - parents, wives/husbands, children - by providing individual psychological consultations using the case management method during the project implementation period.
+The goal of the project will be achieved by implementing the following measures :
+Provision individual online 50-minute consultations for family members of military personnel, which could include:
+-       demobilised military personnel;
+-       persons living in communities where hostilities are taking place;
+-       persons living in de-occupied communities;
+-       internally displaced persons;
+-       victims of gender-based violence,
+-       children and teenagers,
+-       persons with disabilities / guardians of persons with disabilities,
+-       guardians of children with developmental disabilities and disabilities,
+-       single parent;
+-       parents with many children;
+-       elderly persons;
+-       persons in difficult life circumstances.
+To register for a consultation, a participant fills out the appropriate form on the CI website at the link https://docs.google.com/forms/d/e/1FAIpQLSck_x5EYIyZmyln6473RW07
+FD5-C7ChCp7DGxeWD6_2nHcWjw/viewform. The number of persons who applied for an individual consultation is recorded in the CRM. CRM also keeps records of all consultations and reports of specialists on the work performed.
+To receive help, it is enough to have a phone with Internet access. This makes it possible to provide psychological assistance even to residents of communities where active hostilities are taking place.
+Before the start of a series of consultations and after their end, the help-seeker fills out questionnaires in the form of PHQ-9 (9-question Patient Health Questionnaire), GAD-7 (Generalized Anxiety Disorder 7), WHO-5 (The World Health Organization- Five Well-Being Index) - internationally accepted questionnaires for diagnosing the state of mental health, which allow to evaluate the effectiveness of psychosocial interventions.
+NEW:
+Project Summary:
+We propose a project to improve the psycho-emotional state of [COMPANY NAME] employees in Ukraine and their families, through individual psychological consultations during the implementation period. We would focus on consultations for:
+* Communities with active hostilities or that have been recently de-occupied
+* Children, teenagers, single parents, and the elderly
+* Internally displaced Ukranians
+* Victims of Gender-based Violence
+* Any other individuals facing challenging life circumstances.
+We also recommend a philanthropic contribution to enable us to continue providing no-cost mental health services to Ukrainians in need.
+To register for a consultation, the participant fills out a form on our website. Our coordinator will add their information to our client management software and assign them to a specialist. The only requirement for participation is a phone with network access.
+We keep detailed accounts and metrics with regards to the consultations we perform.
+Project Goals:
+1. Depending on the package, 14, 31, or 47 employees (see below) will receive ten consultations each from qualified specialists, and will increase their emotional state by 50% according to questionnaires
+2. We will educate at least 10,000 people on the importance of mental health, seeking psychological help, and practical mental health skills.
+3. We will train 47+ specialists involved with the project, who will continue to provide higher quality services after the project concludes.
+Packages:
+We offer three packages: minimum, medium, and maximum, which differ on the number of consultations that we will provide.
+Table 1: Summary of Packages
+Minimum
+Medium
+Maximum
+Individuals Helped
+14
+31
+47
+Total Consultations
+140
+310
+470
+Webinars
+N/A
+N/A
+3 webinars
+Specialist Supervision
+12 sessions
+12 sessions
+12 sessions
+The minimum package contains:
+* 140 individual online 50-minute consultations for 14 family members of military personnel;
+* 12 weekly group supervision sessions for 6-8 specialists involved in the project in order to improve their skills and restore their psycho-emotional state.
+The medium package contains:
+* 310 individual online consultations for 31 family members of military personnel;
+* Everything included in the minimum package.
+The maximum package contains:
+* 470 individual online consultations for 47 family members of military personnel;
+* 3 monthly webinars, providing practical mental health advice and tips for restoring mental health, reaching 237 individuals, which historically, 90% of are women.
+* Everything else included in the minimum package.
+Project Reach:[a]
+1. Direct Audience
+Quantitative indicators
+Qualitative indicators
+14 / 31 / 47 people
+Women and men aged 18-65, children aged 5-18 family members of military personnel who need psychological help
+More [b]than 47 people
+Psychologists and psychotherapists, women and men 25+ involved in the provision of services in the project, who have undergone supervision and increased their knowledge and expertise
+More than 240 people
+Webinar participants who will increase their mental health knowledge and skills
+2. Mediated audience:
+Quantitative indicators
+Qualitative indicators
+55 / 110 / 140 people
+3-4 family members of the project participants: husbands/wives, children, parents, as the project participants will be able to restore their mental health and improve the emotional atmosphere in the family
+More than 5,000 people
+Clients of specialists who have undergone supervision and increased their expertise
+More than 500 people
+YouTube video hosting users who will watch the recording of the webinars and gain knowledge about mental health recovery practices
+Project Budget:[c][d]
+1. Minimal Package
+cost item
+unit
+quantity
+cost, USD
+total cost, USD
+program costs:
+Psychologist/psychotherapist/psychiatrist fee
+service
+140,00
+25,00
+3500,00
+Supervisor's fee
+service
+12,00
+65,00
+780,00
+total program costs:
+4280,00
+Administrative expenses:
+MHPSS manager's fee
+month
+3,00
+150,00
+450,00
+accountant's fee
+month
+3,00
+90,00
+270,00
+total administrative expenses:
+720,00
+total:
+5000,00
+cost item
+unit
+quantity
+cost, USD
+total cost, USD
+program costs:
+Psychologist/psychotherapist/psychiatrist fee
+service
+310,00
+25,00
+7750,00
+Supervisor's fee
+service
+12,00
+65,00
+780,00
+total program costs:
+8530,00
+Administrative expenses:
+MHPSS manager's fee
+month
+3,00
+300,00
+900,00
+accountant's fee
+month
+3,00
+190,00
+570,00
+total administrative expenses:
+1470,00
+total:
+10000
+cost item
+unit
+quantity
+cost, USD
+total cost, USD
+program costs:
+Psychologist/psychotherapist/psychiatrist fee
+service
+470,00
+25,00
+11750,00
+Supervisor's fee
+service
+12,00
+65,00
+780,00
+webinars lector`s fee
+service
+5,00
+25,00
+125,00
+Google meets software
+month
+3,00
+15,00
+45,00
+total program costs:
+12700,00
+Administrative expenses:
+MHPSS manager's fee
+month
+3,00
+480,00
+1440,00
+accountant's fee
+month
+3,00
+270,00
+810,00
+total administrative expenses:
+2250,00
+total:
+14950,00
+________________
+FULL COMPILED VERSION
+Issue Background:
+The full-scale invasion of Ukraine has exacerbated mental health challenges and led to a sharp deterioration in psycho-emotional wellbeing.  The World Health Organization reported that following the full-scale invasion of the Russian Federation into Ukraine, 9.6 million Ukrainians are at risk of developing psychological disorders, driving demand for increased psychological support services.
+Public resources provided by the Ministry of Health are insufficient to address the issue. Therefore, it is critically important to develop independent programs that offer psychological support and promote emotional wellbeing, especially through non-governmental public organizations.
+UA Mental Help is a charitable institution that was established in 2022 to provide psychological assistance to Ukrainians impacted by the war.  Given our extensive experience in providing psycho-emotional assistance with qualified specialists, we are uniquely positioned to help meet the psychological needs of Ukrainians.
+About Us:
+At UA Mental Help, we are a team of licensed mental health professionals and advocates dedicated to providing comprehensive mental health services to families affected by the crisis in Ukraine. Our guiding philosophy is catering to the individual: every patient is unique and requires different services and treatments for psychological recovery. Over the past year, we have provided direct psychological assistance to more than 3,000 individuals and distributed educational materials to millions of Ukrainians in need.
+We provision psychological assistance to patients who have contacted our formal partner hotlines: Krisenchat, Lifeline Ukraine, and the National Psychological Organization, and are referred to us for long-term help. We are also a member of the Technical Working Group on Mental Health and Psychosocial Support.
+Project Summary:
+We propose a project to improve the psycho-emotional state of [COMPANY NAME] employees in Ukraine and their families, through individual psychological consultations during the implementation period. We would focus on consultations for:
+* Communities with active hostilities or that have been recently de-occupied
+* Children, teenagers, single parents, and the elderly
+* Internally displaced Ukranians
+* Victims of Gender-based Violence
+* Any other individuals facing challenging life circumstances.
+We also recommend a philanthropic contribution to enable us to continue providing no-cost mental health services to Ukrainians in need.
+To register for a consultation, the participant fills out a form on our website. Our coordinator will add their information to our client management software and assign them to a specialist. The only requirement for participation is a phone with network access.
+We keep detailed accounts and metrics with regards to the consultations we perform.
+Project Goals:
+4. Depending on the package, 14, 31, or 47 employees (see below) will receive ten consultations each from qualified specialists, and will increase their emotional state by 50% according to questionnaires
+5. We will educate at least 10,000 people on the importance of mental health, seeking psychological help, and practical mental health skills.
+6. We will train 47+ specialists involved with the project, who will continue to provide higher quality services after the project concludes.
+Packages:
+We offer three packages: minimum, medium, and maximum, which differ on the number of consultations that we will provide.
+Table 1: Summary of Packages
+Minimum
+Medium
+Maximum
+Individuals Helped
+14
+31
+47
+Total Consultations
+140
+310
+470
+Webinars
+N/A
+N/A
+3 webinars
+Specialist Supervision
+12 sessions
+12 sessions
+12 sessions
+The minimum package contains:
+* 140 individual online 50-minute consultations for 14 family members of military personnel;
+* 12 weekly group supervision sessions for 6-8 specialists involved in the project in order to improve their skills and restore their psycho-emotional state.
+The medium package contains:
+* 310 individual online consultations for 31 family members of military personnel;
+* Everything included in the minimum package.
+The maximum package contains:
+* 470 individual online consultations for 47 family members of military personnel;
+* 3 monthly webinars, providing practical mental health advice and tips for restoring mental health, reaching 237 individuals, which historically, 90% of are women.
+* Everything else included in the minimum package.
+Project Reach:
+3. Direct Audience
+Quantitative indicators
+Qualitative indicators
+14 / 31 / 47 patients
+Women and men aged 18-65, children aged 5-18 family members of military personnel who need psychological help
+Over 47 therapists
+Psychologists and psychotherapists, women and men 25+ involved in the provision of services in the project, who have undergone supervision and increased their knowledge and expertise
+Over 240 people
+Webinar participants who will increase their mental health knowledge and skills
+4. Mediated audience:
+Quantitative indicators
+Qualitative indicators
+55 / 110 / 140 people
+3-4 family members of the project participants: husbands/wives, children, parents, as the project participants will be able to restore their mental health and improve the emotional atmosphere in the family
+Over 5,000 clients
+Clients of specialists who have undergone supervision and increased their expertise
+Over 500 people
+YouTube video hosting users who will watch the recording of the webinars and gain knowledge about mental health recovery practices
+Project Budget:[e][f]
+Link to a unified formal budget
+[a]Didn't touch this part
+[b]Say Over 47, not more than 47 ---
+[c]this portion could be redone in a more professional way, ideally using a spreadsheet. I could show an example over a video call from my former organization but don't want to just post it out-right. I could also prepare a similar budget myself if you ask me to.
+[d]You want it to be really easy to compare package expenses which means it should be side by side
+[e]this portion could be redone in a more professional way, ideally using a spreadsheet. I could show an example over a video call from my former organization but don't want to just post it out-right. I could also prepare a similar budget myself if you ask me to.
+[f]You want it to be really easy to compare package expenses which means it should be side by side
