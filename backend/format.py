@@ -131,4 +131,4 @@ def decode_to_utf8(file_path):
 remove_anomalous_chars_and_blank_lines('grant_prop.txt')
 decode_to_utf8('grant_prop.txt')
 global api_key
-api_key = "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"
+api_key = "ahahahahaha"
